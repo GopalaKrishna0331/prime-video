@@ -1,0 +1,24 @@
+.prime-container {
+  min-height: 100vh;
+  background-color: #000000;
+}
+
+.prime-img {
+  width: 100%;
+}
+
+.carousels-container {
+  padding: 25px;
+  font-family: 'roboto';
+}
+
+.movie-title {
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.list-container {
+  list-style-type: none;
+  margin-left: 0;
+}

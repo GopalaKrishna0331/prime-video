@@ -1,0 +1,17 @@
+.cross-icon-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.popup-content {
+  background-image: linear-gradient(#ffffff, #ffffff);
+  border-radius: 15px;
+  padding: 40px;
+}
+
+.button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
